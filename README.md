@@ -1,5 +1,5 @@
 ### WELCOME WELCOME WELCOME
-
+🌱 I’m currently learning backend development.
 
 <!--
 **verjonsy/verjonsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
