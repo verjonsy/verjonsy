@@ -1,5 +1,5 @@
 ### WELCOME WELCOME WELCOME
-🌱 I’m currently learning backend development.
+🌱 I’m currently learning backend development.  
 used to learn about computer vision but am quite curious about a.i. use cases and human-computer interaction now
 <!--
 **verjonsy/verjonsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
